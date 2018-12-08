@@ -1,1 +1,1 @@
-# [I'm an inline-style link](http://hkareem.com)
+# [hkareem.com](http://hkareem.com)
